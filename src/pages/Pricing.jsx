@@ -385,7 +385,7 @@ const Pricing = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
-              href="https://go4me-ar7jjn.manus.space/new-task?svc=in_n_out&city=san_diego" 
+              href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=in_n_out&city=san_diego" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn-primary bg-white text-[#E67E22] hover:bg-gray-100 text-lg px-8 py-4"

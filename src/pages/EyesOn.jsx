@@ -137,7 +137,7 @@ const EyesOn = () => {
             Book an Eyes On visit and get photo/video verification within hours.
           </p>
           <a 
-            href="https://go4me-ar7jjn.manus.space/new-task?svc=eyes_on&city=san_diego" 
+            href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=eyes_on&city=san_diego" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-block bg-white text-[#9B59B6] px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all"

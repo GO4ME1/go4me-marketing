@@ -163,7 +163,7 @@ const OpenRequest = () => {
             Try Open Request. Describe your task, name your price, and see if an agent can help.
           </p>
           <a 
-            href="https://go4me-ar7jjn.manus.space/new-task?svc=open_request&city=san_diego" 
+            href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=open_request&city=san_diego" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-block bg-white text-[#2ECC71] px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all"

@@ -31,7 +31,7 @@ const Header = () => {
               Join
             </Link>
             <a 
-              href="https://go4me-ar7jjn.manus.space/new-task" 
+              href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn-primary inline-block"
@@ -89,7 +89,7 @@ const Header = () => {
               Join
             </Link>
             <a 
-              href="https://go4me-ar7jjn.manus.space/new-task" 
+              href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn-primary inline-block mt-2"

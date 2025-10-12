@@ -7,7 +7,7 @@ const Home = () => {
       icon: Utensils,
       title: "In-N-Out Delivery",
       description: "$10 flat. Hot burgers delivered.",
-      link: "https://go4me-ar7jjn.manus.space/new-task?svc=in_n_out&city=san_diego",
+      link: "https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=in_n_out&city=san_diego",
       color: "#E67E22",
       badge: "MOST POPULAR"
     },
@@ -15,7 +15,7 @@ const Home = () => {
       icon: ShoppingCart,
       title: "Grocery Runs",
       description: "Trader Joe's to your door.",
-      link: "https://go4me-ar7jjn.manus.space/new-task?svc=grocery_runs&city=san_diego",
+      link: "https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=grocery_runs&city=san_diego",
       color: "#2ECC71",
       badge: "NEW"
     },
@@ -23,7 +23,7 @@ const Home = () => {
       icon: Heart,
       title: "Feels on Wheels",
       description: "Someone to listen, while you drive.",
-      link: "https://go4me-ar7jjn.manus.space/new-task?svc=feels_on_wheels&city=san_diego",
+      link: "https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=feels_on_wheels&city=san_diego",
       color: "#9B59B6",
       badge: "NEW"
     },
@@ -31,14 +31,14 @@ const Home = () => {
       icon: FileText,
       title: "DMV Proxy",
       description: "$40. We wait so you don't.",
-      link: "https://go4me-ar7jjn.manus.space/new-task?svc=dmv&city=san_diego",
+      link: "https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=dmv&city=san_diego",
       color: "#3498DB"
     },
     {
       icon: Camera,
       title: "Eyes On",
       description: "$30. Peace of mind on demand.",
-      link: "https://go4me-ar7jjn.manus.space/new-task?svc=eyes_on&city=san_diego",
+      link: "https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=eyes_on&city=san_diego",
       color: "#F39C12"
     }
   ];
@@ -101,7 +101,7 @@ const Home = () => {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start items-center mb-8">
                 <a 
-                  href="https://go4me-ar7jjn.manus.space/new-task" 
+                  href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="btn-primary text-lg px-8 py-4"
@@ -128,7 +128,7 @@ const Home = () => {
         <div className="text-center max-w-4xl mx-auto mt-12">
           <div className="flex flex-wrap gap-3 justify-center">
             <a 
-              href="https://go4me-ar7jjn.manus.space/new-task?svc=in_n_out&city=san_diego"
+              href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=in_n_out&city=san_diego"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm px-4 py-2 bg-white border-2 border-[#E67E22] text-[#E67E22] rounded-lg hover:bg-[#E67E22] hover:text-white transition-all font-medium"
@@ -136,7 +136,7 @@ const Home = () => {
               In-N-Out Run
             </a>
             <a 
-              href="https://go4me-ar7jjn.manus.space/new-task?svc=dmv&city=san_diego"
+              href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=dmv&city=san_diego"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm px-4 py-2 bg-white border-2 border-[#3498DB] text-[#3498DB] rounded-lg hover:bg-[#3498DB] hover:text-white transition-all font-medium"
@@ -144,7 +144,7 @@ const Home = () => {
               DMV Proxy
             </a>
             <a 
-              href="https://go4me-ar7jjn.manus.space/new-task?svc=eyes_on&city=san_diego"
+              href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=eyes_on&city=san_diego"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm px-4 py-2 bg-white border-2 border-[#9B59B6] text-[#9B59B6] rounded-lg hover:bg-[#9B59B6] hover:text-white transition-all font-medium"
@@ -318,7 +318,7 @@ const Home = () => {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl md:text-5xl font-baloo font-bold mb-6">Need it done today?</h2>
           <a 
-            href="https://go4me-ar7jjn.manus.space/new-task" 
+            href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-block bg-white text-[#2ECC71] px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all"

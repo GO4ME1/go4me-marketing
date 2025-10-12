@@ -122,7 +122,7 @@ const InNOut = () => {
             Tell us your In-N-Out order and we'll have it to you in under an hour.
           </p>
           <a 
-            href="https://go4me-ar7jjn.manus.space/new-task?svc=in_n_out&city=san_diego" 
+            href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=in_n_out&city=san_diego" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-block bg-white text-[#E67E22] px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all"
