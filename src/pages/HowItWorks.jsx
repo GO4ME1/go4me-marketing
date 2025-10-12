@@ -115,7 +115,7 @@ const HowItWorks = () => {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl md:text-4xl font-baloo font-bold mb-6">Ready to get started?</h2>
           <a 
-            href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task" 
+            href="https://eloquent-lamington-19e7f5.netlify.app/new-task" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-block bg-white text-[#2ECC71] px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all"

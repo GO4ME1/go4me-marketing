@@ -17,7 +17,7 @@ const GroceryRuns = () => {
               Skip the trip to Trader Joe's. We'll shop your list and deliver fresh groceries right to your door.
             </p>
             <a 
-              href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=grocery_runs&city=san_diego" 
+              href="https://eloquent-lamington-19e7f5.netlify.app/new-task?svc=grocery_runs&city=san_diego" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-block bg-white text-[#2ECC71] px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all"
@@ -144,7 +144,7 @@ const GroceryRuns = () => {
             Create your shopping list and get fresh Trader Joe's groceries delivered today.
           </p>
           <a 
-            href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?svc=grocery_runs&city=san_diego" 
+            href="https://eloquent-lamington-19e7f5.netlify.app/new-task?svc=grocery_runs&city=san_diego" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-block bg-white text-[#2ECC71] px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all"

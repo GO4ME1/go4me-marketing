@@ -62,7 +62,7 @@ const Coverage = () => {
                 </div>
               </div>
               <a 
-                href="https://8082-iuy0sh483nph1ofrn8w7s-f9b92883.manusvm.computer/new-task?city=san_diego" 
+                href="https://eloquent-lamington-19e7f5.netlify.app/new-task?city=san_diego" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="btn-primary w-full text-center block"
