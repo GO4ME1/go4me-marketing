@@ -3,7 +3,7 @@ import { useEffect } from 'react';
 const Join = () => {
   useEffect(() => {
     // Redirect to comprehensive application form on Netlify
-    window.location.href = 'https://go4me-join-page.netlify.app/';
+    window.location.href = 'https://go4me-join-page.pages.dev/';
   }, []);
 
   return (
