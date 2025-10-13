@@ -53,7 +53,7 @@ const Footer = () => {
               <li><Link to="/use-cases" className="text-gray-300 hover:text-[#2ECC71] transition-colors">Use Cases</Link></li>
               <li><Link to="/business" className="text-gray-300 hover:text-[#2ECC71] transition-colors">For Business</Link></li>
               <li><Link to="/coverage" className="text-gray-300 hover:text-[#2ECC71] transition-colors">Coverage</Link></li>
-              <li><Link to="/join" className="text-gray-300 hover:text-[#2ECC71] transition-colors">Become an Agent</Link></li>
+              <li><a href="https://go4me-join-page.pages.dev" className="text-gray-300 hover:text-[#2ECC71] transition-colors">Become an Agent</a></li>
               <li><Link to="/faq" className="text-gray-300 hover:text-[#2ECC71] transition-colors">FAQ</Link></li>
               <li><Link to="/contact" className="text-gray-300 hover:text-[#2ECC71] transition-colors">Contact</Link></li>
             </ul>

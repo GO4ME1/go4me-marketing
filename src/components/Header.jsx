@@ -27,9 +27,9 @@ const Header = () => {
             <Link to="/coverage" className="text-gray-700 hover:text-[#2ECC71] transition-colors font-medium">
               Coverage
             </Link>
-            <Link to="/join" className="text-gray-700 hover:text-[#2ECC71] transition-colors font-medium">
+            <a href="https://go4me-join-page.pages.dev" className="text-gray-700 hover:text-[#2ECC71] transition-colors font-medium">
               Join
-            </Link>
+            </a>
             <a 
               href="https://go4me-ar7jjn.manus.space/new-task" 
               target="_blank" 
@@ -81,13 +81,13 @@ const Header = () => {
             >
               Coverage
             </Link>
-            <Link 
-              to="/join" 
+            <a 
+              href="https://go4me-join-page.pages.dev" 
               className="block text-gray-700 hover:text-[#2ECC71] transition-colors font-medium py-2"
               onClick={() => setIsMenuOpen(false)}
             >
               Join
-            </Link>
+            </a>
             <a 
               href="https://go4me-ar7jjn.manus.space/new-task" 
               target="_blank" 
