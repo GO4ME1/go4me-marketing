@@ -160,7 +160,7 @@ const DryCleaning = () => {
             Schedule your pickup and we'll handle the rest.
           </p>
           <a 
-            href="https://eloquent-lamington-19e7f5.netlify.app/new-task?svc=dry_clean&city=san_diego" 
+            href="https://go4me-booking-form.pages.dev?svc=dry_clean&city=san_diego" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-block bg-white text-[#1ABC9C] px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all"

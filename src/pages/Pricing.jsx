@@ -385,7 +385,7 @@ const Pricing = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
-              href="https://eloquent-lamington-19e7f5.netlify.app/new-task?svc=in_n_out&city=san_diego" 
+              href="https://go4me-booking-form.pages.dev?svc=in_n_out&city=san_diego" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn-primary bg-white text-[#E67E22] hover:bg-gray-100 text-lg px-8 py-4"

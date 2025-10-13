@@ -31,7 +31,7 @@ const Header = () => {
               Join
             </Link>
             <a 
-              href="https://eloquent-lamington-19e7f5.netlify.app/new-task" 
+              href="https://go4me-booking-form.pages.dev" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn-primary inline-block"
@@ -89,7 +89,7 @@ const Header = () => {
               Join
             </Link>
             <a 
-              href="https://eloquent-lamington-19e7f5.netlify.app/new-task" 
+              href="https://go4me-booking-form.pages.dev" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn-primary inline-block mt-2"

@@ -148,7 +148,7 @@ const Services = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a 
-                href="https://eloquent-lamington-19e7f5.netlify.app/new-task" 
+                href="https://go4me-booking-form.pages.dev" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="btn-primary"
@@ -171,7 +171,7 @@ const Services = () => {
             Book your first task in 60 seconds. No subscription, no commitment.
           </p>
           <a 
-            href="https://eloquent-lamington-19e7f5.netlify.app/new-task" 
+            href="https://go4me-booking-form.pages.dev" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-block bg-white text-[#3498DB] px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all"

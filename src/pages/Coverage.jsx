@@ -62,7 +62,7 @@ const Coverage = () => {
                 </div>
               </div>
               <a 
-                href="https://eloquent-lamington-19e7f5.netlify.app/new-task?city=san_diego" 
+                href="https://go4me-booking-form.pages.dev?city=san_diego" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="btn-primary w-full text-center block"
