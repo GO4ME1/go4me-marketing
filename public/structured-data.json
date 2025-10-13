@@ -1,0 +1,187 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.go4me.ai/#organization",
+      "name": "Go4me.ai",
+      "url": "https://www.go4me.ai",
+      "logo": "https://www.go4me.ai/logo.png",
+      "description": "The world's first digital-to-physical agent service. AI-powered field agents (gophers) complete real-world tasks on your behalf.",
+      "foundingDate": "2024",
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "San Diego",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "California"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Los Angeles",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "California"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "San Francisco",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "California"
+          }
+        }
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "support@go4me.ai",
+        "contactType": "Customer Service",
+        "areaServed": "US"
+      },
+      "sameAs": [
+        "https://www.go4me.ai"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.go4me.ai/#service",
+      "serviceType": "Digital-to-Physical Agent Service",
+      "provider": {
+        "@id": "https://www.go4me.ai/#organization"
+      },
+      "name": "Go4me.ai Agent Service",
+      "description": "On-demand field agents complete real-world tasks including In-N-Out delivery, DMV proxy services, dry cleaning pickup, lost and found recovery, location monitoring, and custom errands.",
+      "areaServed": [
+        "San Diego, CA",
+        "Los Angeles, CA",
+        "San Francisco, CA"
+      ],
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceUrl": "https://app.go4me.ai",
+        "servicePhone": "",
+        "availableLanguage": "English"
+      },
+      "termsOfService": "https://www.go4me.ai/terms",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Go4me.ai Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "In-N-Out Delivery",
+              "description": "Order In-N-Out Burger delivered to your location by a vetted field agent. Menu selection, payment, and delivery handled for you.",
+              "serviceType": "Food Delivery Service"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "DMV Proxy Service",
+              "description": "Send a field agent to the DMV or government office on your behalf. Handle registration, renewals, and paperwork without waiting in line.",
+              "serviceType": "Errand Service"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Eyes On Location Monitoring",
+              "description": "Have an agent visit a specific location to provide live updates, photos, and status reports. Perfect for property checks, construction monitoring, or verification.",
+              "serviceType": "Monitoring Service"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Lost and Found Recovery",
+              "description": "Get help locating and reclaiming lost items from businesses, venues, or public spaces. Agents coordinate with locations and retrieve your belongings.",
+              "serviceType": "Recovery Service"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Dry Cleaning Pickup and Delivery",
+              "description": "Have dry cleaning picked up from your location and retrieved from the cleaners when ready. Convenient laundry service without leaving home.",
+              "serviceType": "Laundry Service"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Custom Errand Service",
+              "description": "Request any legal task or errand. Our field agents handle custom requests from document delivery to retail returns and more.",
+              "serviceType": "Concierge Service"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.go4me.ai/#website",
+      "url": "https://www.go4me.ai",
+      "name": "Go4me.ai",
+      "description": "Digital-to-Physical AI Agent Service",
+      "publisher": {
+        "@id": "https://www.go4me.ai/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://www.go4me.ai/services?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.go4me.ai/faq#faqpage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How does Go4me.ai work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Go4me.ai connects you with vetted local agents (we call them gophers) who complete real-world tasks on your behalf. Simply describe your task, and we'll dispatch an agent to handle it. You get SMS updates and photo/receipt proof when it's done."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get In-N-Out delivered in San Diego?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! Go4me.ai offers In-N-Out Burger delivery in San Diego. Our agents pick up your order and deliver it fresh to your location. Simply place your order through our app."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can someone go to the DMV for me?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! Our DMV Proxy service allows you to send a vetted agent to the DMV or government office on your behalf. They can handle registration renewals, paperwork submission, and other DMV tasks as your authorized representative."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What areas do you serve?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We're currently live in San Diego. Los Angeles and San Francisco are launching within 2 weeks. Join our waitlist to be notified when we launch in your city."
+          }
+        }
+      ]
+    }
+  ]
+}

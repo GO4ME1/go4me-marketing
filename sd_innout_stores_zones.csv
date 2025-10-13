@@ -1,0 +1,6 @@
+store_id,store_name,pickup_address,pickup_lat,pickup_lng,max_minutes,max_miles
+SD-SPORTS-ARENA,In-N-Out Burger - Sports Arena,"3102 Sports Arena Blvd, San Diego, CA 92110",32.7557,-117.216,28,10
+SD-MISSION-VALLEY,In-N-Out Burger - Mission Valley,"2005 Camino del Este, San Diego, CA 92108",32.7739,-117.14,28,10
+SD-KEARNY-MESA,In-N-Out Burger - Kearny Mesa,"9245 Mira Mesa Blvd, San Diego, CA 92126",32.9157,-117.1446,30,12
+SD-CHULA-VISTA,In-N-Out Burger - Chula Vista,"1150 Broadway, Chula Vista, CA 91911",32.6043,-117.0827,30,12
+SD-LA-MESA,In-N-Out Burger - La Mesa,"7200 Parkway Dr, La Mesa, CA 91942",32.7766,-117.0317,32,12
