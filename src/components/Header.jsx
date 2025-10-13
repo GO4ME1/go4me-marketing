@@ -31,7 +31,7 @@ const Header = () => {
               Join
             </Link>
             <a 
-              href="https://go4me-booking-form.pages.dev" 
+              href="https://go4me-ar7jjn.manus.space/new-task" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn-primary inline-block"
@@ -89,7 +89,7 @@ const Header = () => {
               Join
             </Link>
             <a 
-              href="https://go4me-booking-form.pages.dev" 
+              href="https://go4me-ar7jjn.manus.space/new-task" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn-primary inline-block mt-2"

@@ -161,7 +161,7 @@ const UseCases = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
-              href="https://go4me-booking-form.pages.dev" 
+              href="https://go4me-ar7jjn.manus.space/new-task" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn-primary bg-white text-[#2ECC71] hover:bg-gray-100 text-lg px-8 py-4"

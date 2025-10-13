@@ -17,7 +17,7 @@ const GroceryRuns = () => {
               Skip the trip to Trader Joe's. We'll shop your list and deliver fresh groceries right to your door.
             </p>
             <a 
-              href="https://go4me-booking-form.pages.dev?svc=grocery_runs&city=san_diego" 
+              href="https://go4me-ar7jjn.manus.space/new-task?svc=grocery_runs&city=san_diego" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-block bg-white text-[#2ECC71] px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all"
@@ -144,7 +144,7 @@ const GroceryRuns = () => {
             Create your shopping list and get fresh Trader Joe's groceries delivered today.
           </p>
           <a 
-            href="https://go4me-booking-form.pages.dev?svc=grocery_runs&city=san_diego" 
+            href="https://go4me-ar7jjn.manus.space/new-task?svc=grocery_runs&city=san_diego" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-block bg-white text-[#2ECC71] px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all"

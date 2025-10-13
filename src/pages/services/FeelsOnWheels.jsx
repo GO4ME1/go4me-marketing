@@ -20,7 +20,7 @@ const FeelsOnWheels = () => {
               Not therapy—just human connection.
             </p>
             <a 
-              href="https://go4me-booking-form.pages.dev?svc=feels_on_wheels&city=san_diego" 
+              href="https://go4me-ar7jjn.manus.space/new-task?svc=feels_on_wheels&city=san_diego" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-block bg-white text-[#9B59B6] px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all"
@@ -180,7 +180,7 @@ const FeelsOnWheels = () => {
             Book a Feels on Wheels session and experience the relief of being truly listened to.
           </p>
           <a 
-            href="https://go4me-booking-form.pages.dev?svc=feels_on_wheels&city=san_diego" 
+            href="https://go4me-ar7jjn.manus.space/new-task?svc=feels_on_wheels&city=san_diego" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-block bg-white text-[#9B59B6] px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all"
