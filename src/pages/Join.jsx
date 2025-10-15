@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+// Updated: Redirect to comprehensive gopher application form
 
 const Join = () => {
   useEffect(() => {
